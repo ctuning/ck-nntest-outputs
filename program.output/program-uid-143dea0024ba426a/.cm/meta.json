@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "armcl", 
+    "softmax", 
+    "uint8", 
+    "vopencl", 
+    "softmax-armcl-opencl-uint8"
+  ]
+}

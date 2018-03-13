@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "avgpool", 
+    "uint8", 
+    "vcpu", 
+    "avgpool-tensorflow-cpu-uint8"
+  ]
+}

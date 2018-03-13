@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "reshape", 
+    "uint8", 
+    "vcpu", 
+    "reshape-tensorflow-cpu-uint8"
+  ]
+}

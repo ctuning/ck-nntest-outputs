@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "resizebilinear", 
+    "resize_bilinear", 
+    "resize-bilinear", 
+    "float32", 
+    "vcpu", 
+    "resizebilinear-tensorflow-cpu"
+  ]
+}

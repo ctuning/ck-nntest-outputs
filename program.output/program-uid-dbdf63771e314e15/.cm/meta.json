@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nntest", 
+    "armcl", 
+    "resizebilinear", 
+    "resize_bilinear", 
+    "resize-bilinear", 
+    "float32", 
+    "vopencl", 
+    "resizebilinear-armcl-opencl-uint8"
+  ]
+}

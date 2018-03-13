@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nntest", 
+    "caffe", 
+    "fully_connected", 
+    "fully-connected", 
+    "fullyconnected", 
+    "float32", 
+    "vcpu", 
+    "fullyconnected-caffe-cpu"
+  ]
+}

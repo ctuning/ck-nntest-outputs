@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nntest", 
+    "acl", 
+    "fully_connected", 
+    "fully-connected", 
+    "fullyconnected", 
+    "uint8", 
+    "vopencl", 
+    "fullyconnected-armcl-opencl-uint8"
+  ]
+}

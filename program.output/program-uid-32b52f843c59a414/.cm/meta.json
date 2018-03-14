@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "depthwiseconv", 
+    "depthwise_conv", 
+    "depthwise-conv", 
+    "depthwise_convolution", 
+    "depthwise-convolution", 
+    "float32", 
+    "vcpu", 
+    "depthwiseconv-tensorflow-cpu"
+  ]
+}

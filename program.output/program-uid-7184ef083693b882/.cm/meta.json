@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "conv", 
+    "float32", 
+    "vcpu", 
+    "conv-tensorflow-cpu"
+  ]
+}

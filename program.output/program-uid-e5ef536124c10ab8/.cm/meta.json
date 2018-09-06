@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "tensorflow", 
+    "softmax", 
+    "float32", 
+    "vcpu", 
+    "softmax-tensorflow-cpu"
+  ]
+}

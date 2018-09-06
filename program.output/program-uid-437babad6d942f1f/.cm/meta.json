@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nntest", 
+    "armcl", 
+    "conv", 
+    "uint32", 
+    "vopencl", 
+    "conv-armcl-opencl-uint8"
+  ]
+}
